@@ -1,0 +1,6 @@
+../Parking Lot/.idea/
+out/
+.idea_modules/
+*.iml
+*.ipr
+*.iws

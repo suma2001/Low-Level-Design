@@ -1,7 +1,7 @@
-package parkingSpace;
+package ParkingLot.parkingSpace;
 
-import vehicle.Vehicle;
-import vehicle.VehicleType;
+import ParkingLot.vehicle.Vehicle;
+import ParkingLot.vehicle.VehicleType;
 
 public class ParkingSpaceFactory {
     private ParkingSpace parkingSpace;

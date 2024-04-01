@@ -1,12 +1,14 @@
-import parkingLot.*;
-import parkingSpace.FourWheelerSpace;
-import parkingSpace.ParkingSpace;
-import parkingSpace.TwoWheelerSpace;
-import payment.PaymentInfo;
-import payment.PaymentType;
-import payment.SecondsPaymentStrategy;
-import vehicle.TwoWheelerVehicle;
-import vehicle.Vehicle;
+package ParkingLot;
+
+import ParkingLot.parkingLot.*;
+import ParkingLot.parkingSpace.FourWheelerSpace;
+import ParkingLot.parkingSpace.ParkingSpace;
+import ParkingLot.parkingSpace.TwoWheelerSpace;
+import ParkingLot.payment.PaymentInfo;
+import ParkingLot.payment.PaymentType;
+import ParkingLot.payment.SecondsPaymentStrategy;
+import ParkingLot.vehicle.TwoWheelerVehicle;
+import ParkingLot.vehicle.Vehicle;
 
 import java.util.concurrent.TimeUnit;
 

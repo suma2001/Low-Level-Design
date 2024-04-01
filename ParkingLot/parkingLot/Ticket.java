@@ -1,7 +1,7 @@
-package parkingLot;
+package ParkingLot.parkingLot;
 
-import parkingSpace.ParkingSpace;
-import vehicle.Vehicle;
+import ParkingLot.parkingSpace.ParkingSpace;
+import ParkingLot.vehicle.Vehicle;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

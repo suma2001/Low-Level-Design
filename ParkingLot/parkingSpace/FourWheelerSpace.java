@@ -1,4 +1,4 @@
-package parkingSpace;
+package ParkingLot.parkingSpace;
 
 public class FourWheelerSpace extends ParkingSpace {
     public FourWheelerSpace() {

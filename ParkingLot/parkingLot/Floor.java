@@ -1,6 +1,6 @@
-package parkingLot;
+package ParkingLot.parkingLot;
 
-import parkingSpace.ParkingSpace;
+import ParkingLot.parkingSpace.ParkingSpace;
 
 import java.util.ArrayList;
 import java.util.List;

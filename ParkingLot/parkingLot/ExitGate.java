@@ -1,8 +1,8 @@
-package parkingLot;
+package ParkingLot.parkingLot;
 
-import payment.PaymentInfo;
-import payment.PaymentStrategy;
-import payment.PaymentType;
+import ParkingLot.payment.PaymentInfo;
+import ParkingLot.payment.PaymentStrategy;
+import ParkingLot.payment.PaymentType;
 
 import java.time.LocalDateTime;
 

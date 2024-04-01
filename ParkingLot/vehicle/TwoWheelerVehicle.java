@@ -1,4 +1,4 @@
-package vehicle;
+package ParkingLot.vehicle;
 
 public class TwoWheelerVehicle extends Vehicle {
     public TwoWheelerVehicle(String regNum) {

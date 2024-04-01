@@ -1,6 +1,6 @@
-package payment;
+package ParkingLot.payment;
 
-import parkingLot.Ticket;
+import ParkingLot.parkingLot.Ticket;
 
 import java.time.temporal.ChronoUnit;
 

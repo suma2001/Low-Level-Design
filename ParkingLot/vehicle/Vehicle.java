@@ -1,4 +1,4 @@
-package vehicle;
+package ParkingLot.vehicle;
 
 public class Vehicle {
     private String registrationNumber;

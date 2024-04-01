@@ -1,8 +1,8 @@
-package parkingLot;
+package ParkingLot.parkingLot;
 
-import parkingSpace.ParkingSpace;
-import parkingSpace.ParkingSpaceFactory;
-import vehicle.Vehicle;
+import ParkingLot.parkingSpace.ParkingSpace;
+import ParkingLot.parkingSpace.ParkingSpaceFactory;
+import ParkingLot.vehicle.Vehicle;
 
 public class EntryGate {
     private int gateId;

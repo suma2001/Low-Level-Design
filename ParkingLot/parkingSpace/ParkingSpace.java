@@ -1,6 +1,6 @@
-package parkingSpace;
+package ParkingLot.parkingSpace;
 
-import vehicle.Vehicle;
+import ParkingLot.vehicle.Vehicle;
 
 import java.util.UUID;
 
